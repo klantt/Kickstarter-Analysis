@@ -8,7 +8,7 @@ Performing analysis on kick starter data to uncover trends
 
 ### The overall purpose of this project was to filter data provided into a readable document outlining the success and sometimes not successful Kickstarter projects for theater.
 
-## The one biggest challenge for me was learning hotkeys to efficiently move, place and input data into excel to save time. 
+### The one biggest challenge for me was learning hotkeys to efficiently move, place and input data into excel to save time. 
 
 ### The biggest outcome that stood out to me was how important it seemed to launch a play in the months of June, and July seeing as those two months were so far ahead of any other launch date.
 
